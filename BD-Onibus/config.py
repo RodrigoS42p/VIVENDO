@@ -1,0 +1,2 @@
+API_KEY = "37Td9HHSvTetBdxUrVeKKccNn"
+STOP_ID = "6893"
